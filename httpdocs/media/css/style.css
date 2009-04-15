@@ -1,0 +1,36 @@
+body {
+	background: #ebe7db;
+}
+
+#prompt {
+	height: 25px;
+}
+
+#prompt b {
+	float: right;
+	margin: 4px -15px 0 0;
+}
+
+#message {
+	height: 25px;
+	padding: 4px 0 0 0;
+}
+
+#logo {
+	height: 90px;
+}
+
+#query {
+	margin-left: 10px;
+}
+
+#header a {
+	width: 421px;
+	height: 90px;
+	display: absolute;
+	margin: 0 0 0 225px !important;
+}
+
+#message {
+  color: #A40008;
+}

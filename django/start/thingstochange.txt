@@ -1,0 +1,13 @@
+settings.py:
+	database info
+	media root
+	change fixture directory
+
+urls.py:
+	remove static media serving
+
+../../httpdocs/media/js/start.js:
+	remove port from ajax calls
+
+admin:
+    change the site domain and name
